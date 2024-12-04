@@ -14,7 +14,7 @@ public class HomePage {
 	WebElement passwordTextField;
 	WebElement submitBtn;
 
-	// constructor to initialize driver
+	// constructor to initialize webdriver driver
 	public HomePage(WebDriver driver) {
 		this.driver = driver;
 	}
