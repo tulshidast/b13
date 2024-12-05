@@ -79,15 +79,15 @@ public class StringClassMethods {
 
 		System.out.println("############################Welcome To Codemind##################################");
 
-		String price = "₹1,612";
-
-		System.out.println(price.replace('₹', ' ').replace(',', ' '));
-
-		System.out.println(price.replace("₹1,", ""));
-
-		System.out.println(s.replaceAll("o", "O"));
-
-		System.out.println(s.replaceFirst("o", "O"));
+//		String price = "₹1,612";
+//
+//		System.out.println(price.replace('₹', ' ').replace(',', ' '));
+//
+//		System.out.println(price.replace("₹1,", ""));
+//
+//		System.out.println(s.replaceAll("o", "O"));
+//
+//		System.out.println(s.replaceFirst("o", "O"));
 
 		System.out.println("###############################################################");
 
